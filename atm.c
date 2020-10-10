@@ -60,7 +60,7 @@ void functionlist(void)
     printf("\n\t\t\t\tAYA ATM MACHINE");
     printf("\n\t\t\t\t===============");
     printf("\n============================================================================================================================================================");
-    printf("\n[1]Withdrawl\t[2]Deposit\t[3]Add User\t[4]Edit User\t[5]Erase User\t[6]Change Password\t[7]Info Of User  [8]Recent Actions   [9]Exit Program");
+    printf("\n[1]Withdraw\t[2]Deposit\t[3]Add User\t[4]Edit User\t[5]Erase User\t[6]Change Password\t[7]Info Of User  [8]Recent Actions   [9]Exit Program");
     printf("\n============================================================================================================================================================");
 
 }
