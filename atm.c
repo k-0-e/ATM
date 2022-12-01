@@ -4,9 +4,6 @@
 #include <ctype.h>
 #include <time.h>
 
-// Written by Mr. Koe Shwin
-// Contact to koeshwin00@gmail.com if you found any error in this source code 
-
 int option;
 char back;
 int flag;
